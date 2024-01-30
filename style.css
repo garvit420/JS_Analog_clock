@@ -6,7 +6,7 @@ body {
 .clock-container {
   height: 100vh;
   width: 50vw;
-  background-image: url('clock.jpeg');
+  background-image: url('clock.png');
   background-size: cover;
   position: relative;
 }
